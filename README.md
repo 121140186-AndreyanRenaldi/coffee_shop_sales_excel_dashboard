@@ -1,10 +1,42 @@
 # Project Overview
-This project is an end-to-end Data Analytics case study developed using Microsoft Excel. The objective is to transform raw transactional data into meaningful business insights through data cleaning, feature engineering, data analysis, and interactive dashboard development.
-
-The dashboard enables users to monitor sales performance, analyze customer purchasing behavior, evaluate product and store performance, and identify sales trends using interactive filters and visualizations.
-
-This project demonstrates the complete workflow of a Data Analyst, from preparing raw data to delivering actionable business insights for decision-making
+This project presents an interactive sales dashboard developed in Microsoft Excel to analyze coffee shop transaction data. The dashboard provides key business insights through interactive KPIs, charts, slicers, and timeline filters, enabling users to monitor sales performance, product trends, and customer purchasing behavior.
 
 # Business Problem
+This dashboard helps answer key business questions such as:
+1. Which store generates the highest revenue?
+2. Which product category contributes the most sales?
+3. How do sales change over time?
+4. What is the average transaction value?
+5. When are the busiest transaction periods?
+
+# Dataset
+Dataset : Coffee Shop Sales
+Period  : Janury - June 2023
+Record  : 149,116 
+Format  : excel
+
+# Dashboard Features
+### KPIs
+1. Product Sold
+2. Total Revenue
+3. Total Transaksi
+4. Average Transaction Value (ATV)
+
+### Interactive Filters
+1. Transactio Date (Day) - Timeline
+2. Product Category - Slicer
+3. Store Location - Slicer
+
+### Visualization
+1. Revenue Trend - Monthly
+2. Revenue by Product Category
+3. Revenue by Store Location
+4. Revenue for Each Hour
+
+``
+
+
+
+
 
 
