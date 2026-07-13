@@ -10,10 +10,10 @@ This dashboard helps answer key business questions such as:
 5. When are the busiest transaction periods?
 
 # Dataset
-Dataset : Coffee Shop Sales
-Period  : Janury - June 2023
-Record  : 149,116 
-Format  : excel
+1. Dataset : Coffee Shop Sales
+2. Period  : Janury - June 2023
+3. Record  : 149,116 
+4. Format  : excel
 
 # Dashboard Features
 ### KPIs
